@@ -18,12 +18,5 @@ More information at [Snarkco.in](http://www.Snarkco.in)
 <tr><td>Block Time</td><td>300 secs</td></tr>
 <tr><td>Difficulty Retargeting</td><td>Every Block</td></tr>
 <tr><td>Max Coin Supply</td><td>10,500,000 SNARK</td></tr>
-<tr><td>Snarkcoin Created Per block</td><td>25 SNARK*</td></tr>
+<tr><td>Snarkcoin Created Per block</td><td>25 SNARK</td></tr>
 </table>
-
-
-### PoS/PoW Block Details
-<table>
-<tr><td>Proof Of Work Phase</td><td>1-Infinite Blocks.</td></tr>
-</table>
-
